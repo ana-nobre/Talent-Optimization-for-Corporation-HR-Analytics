@@ -1,4 +1,4 @@
-# Talent-Optimization-for-Corporation-HR-Analytics-
+# Talent-Optimization-for-Corporation-HR-Analytics
 
 Summary: A data analysis project simulating a real-world HR consultancy for a tech firm, focused on employee satisfaction and retention.
 
